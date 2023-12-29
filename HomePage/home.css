@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+}
+:root {
+    --bg-primary: linear-gradient(180deg, #FFEEE8 -36.19%, #FBEBF8 41.31%, #F7F6FF 100%);
+  
+
+}
+
+.home{
+    /* height: 1440px; */
+    /* --bs-bg-opacity: 1; */
+    background: var(--bg-primary)
+}
+.ohoh_logo{
+    height: 30px;
+    width: 81px;
+}
+.home_btn{
+    border-radius: 36px;
+    border: 1px solid #FFECE6;
+    background: #FFF;
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.05);
+    color: black;
+    text-decoration: none;
+    padding: 11.5px 20px;
+}
+.dashboard_image{
+    width: 1200px;
+    height: 580px;
+}
