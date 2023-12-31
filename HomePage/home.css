@@ -50,3 +50,12 @@
     color: white;
     padding: 11.5px 20px;
 }
+.what_offer{
+    color: #FF5D25;
+    border-bottom: 2px solid #FF5D25;
+    padding: 15px;
+        
+    /* border-bottom: #FF5D25;
+    border-style: solid;
+    border-bottom-width: medium; */
+}
