@@ -68,6 +68,12 @@
     border: 1px solid #EAEAEE;
     background: #FFF;
 }
+.regional_level-2
+{
+    border-radius: 12px;
+    border: 1px solid #EAEAEE;
+    background: #FFF;
+}
 .home_card{
     background: var(--bg-primary);
     border-radius: 12px;
@@ -92,6 +98,20 @@
     font-weight: 400;
     line-height: 140%; /* 14px */
 }
+.card_head-1{
+    color: var(--Black, #000);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: bold;
+    font-weight: 500;
+}
+.card_para-1{
+    color: var(--Neutral-colors-N2, #8E8E8E);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
 .regional_level_user{
     border-radius: 50px;
     border: 1px solid #EAEAEE;
@@ -102,6 +122,17 @@
     width: 150px;
 }
 .card_img_archive{
-    /* height: 20px; */
     width: 35px;
+}
+.card_img_archive_call{
+    width: 25px;
+}
+.regional_level_over
+{
+    border-radius: 8px;
+    border: 1px solid #EAEAEE;
+    background: #FFF;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-top: 310px;
 }
