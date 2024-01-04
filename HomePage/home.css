@@ -142,3 +142,59 @@
 .card_img_archive_info{
     width: 60px;
 }
+.slider{
+    border-radius: 15px;
+border: 1px solid #FFE3D4;
+
+}
+.card_img_testimonial{
+    width: 100px;
+}
+.footer{
+    background-color: #0C0636;
+    color: #FFF;
+}
+.footer_link{
+    color: #D9D8D8;
+    text-decoration: none;
+}
+.footer_icon{
+    width: 30px;
+    height: 30px;
+    background-color: #CBCBCB;
+    border-radius: 20px;
+}
+.footer_icon:hover{
+    background-color: #FF5D25;
+    color: #fff;
+}
+.fa-facebook:hover{
+    color: #fff;
+}
+.fa-facebook{
+    color: black;
+}
+.fa-twitter:hover{
+    color: #fff;
+}
+.fa-twitter{
+    color: black;
+}
+.fa-instagram:hover{
+    color: #fff;
+}
+.fa-instagram{
+    color: black;
+}
+.fa-linkedin:hover{
+    color: #fff;
+}
+.fa-linkedin{
+    color: black;
+}
+.fa-youtube-play:hover{
+    color: #fff;
+}
+.fa-youtube-play{
+    color: black;
+}
