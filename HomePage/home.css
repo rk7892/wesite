@@ -55,11 +55,9 @@
 
 }
 .hrline{
-    color: #FF5D25;
-    width: 50px;
-    margin-left: 350px;
-    height: 12px;
-    /* position: absolute; */
+    border: 1px solid #FF5D25;
+    width: 80px;
+    margin-left: 44%;
 }
 .regional_level
 {
@@ -77,10 +75,6 @@
     background: var(--bg-primary);
     border-radius: 12px;
 }
-/* .card_img{
-    width: 10vh;
-    height: 10vh;
-} */
 .card_head{
     color: var(--Black, #000);
     font-family: Montserrat;
@@ -212,4 +206,7 @@ border: 1px solid #FFE3D4;
 .read_more:hover {
     background-color: #FF5D25;
     color: #fff;
+}
+.card-img-top{
+    height: 170px;
 }
